@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AN Furnish - AI-Powered Furniture Design Platform
 
 ## Overview
@@ -168,3 +169,6 @@ The application can be deployed to any cloud platform that supports Node.js appl
 ## License
 
 This project is licensed under the MIT License.
+=======
+# A_N_Enterprises
+>>>>>>> eb8abc90b01d6c95db70fc566e64b64b3df9c0af
